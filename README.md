@@ -1,3 +1,3 @@
-# Profile
+# Blog-webpage
 
-A blog
+A fully responsive webpage.
